@@ -1,0 +1,12 @@
+1. Twitter # tag
+  a. #100DaysOfcode
+  b. #CodeNewbie
+  c. #webdev
+2. Code Chellange
+  a. https://www.codewars.com/
+=> console.warn()
+=> console.error()
+=> console.table()
+=>Number()//get only number
+=> What is "use strict"?.
+Ans: The "use strict" directive was new in ECMAScript version 5.
